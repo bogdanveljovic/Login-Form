@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #344a72;
+    font-family:Arial, Helvetica, sans-serif
+}
+section {
+   
+    max-width: 25%;
+    height: 50vh;
+    text-align: center;
+    margin: auto;
+    margin-top: 5rem;
+    min-width: 300px;
+}
+
+#text-holder2 {
+    padding: 5%;
+}
+
+#main-div {
+    margin: auto;
+    background-color: white;
+}
+ #form-holder {
+    text-align: center;
+    margin: 20px; 
+ }
+ #form-item{
+    display: block;
+ }
+ #form-item button{
+    width: 100%;
+ }
+.form-item {
+    text-align: left;
+}
+.form-item  button{
+    width: 99%;
+    height: 2rem;
+    border-radius: 7px;
+    background-color: #3CB371;
+    color: white;
+    border: none;
+}
+ #form-holder label{
+    font-size: 13pt;
+    opacity: 0.8;
+ }
+
+.form-item input {
+    width: 98%;
+    padding: 0;
+    height: 2rem;
+    border-radius: 7px;
+    border-color: lightslategray;
+}
+#text-holder {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+#text-holder h1 {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+#text-holder h1 {
+ font-size: 28pt;
+    
+}
+
+#text-holder p {
+    margin-bottom: 1rem;
+    font-size: 15pt;
+}
+
+
+#text-holder3 a{
+    margin-top: 1rem;
+    text-decoration: none;
+    color: #3CB371; 
+}
+#text-holder3 {
+    margin-top: 1rem; 
+    color: white;
+}
+
+
+#text-holder2 a{
+    text-decoration: none;
+    color: blue;
+}
